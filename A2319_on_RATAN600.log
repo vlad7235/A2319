@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2011.6.11)  5 SEP 2012 15:02
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.6.25)  6 SEP 2012 11:02
 entering extended mode
  %&-line parsing enabled.
 **A2319_on_RATAN600.tex
@@ -358,32 +358,39 @@ Class revtex4 Info: Patching unrecognized longtable package. (Proceeding with f
 ingers crossed) on input line 43.
 Class revtex4 Info: cite was not loaded (OK!) on input line 43.
 Class revtex4 Info: multicol was not loaded (OK!) on input line 43.
-LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
  (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 66.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 72.
 
 (/usr/share/texmf/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [1] [2]
-File: 3C84_tp.eps Graphic file (type eps)
- <3C84_tp.eps> [3]
-File: 3C84_bs.eps Graphic file (type eps)
+)
+File: ModelProfile_TP.eps Graphic file (type eps)
+ <ModelProfile_TP.eps>
+File: ModelProfile_BS.eps Graphic file (type eps)
 
-<3C84_bs.eps> [4]
+<ModelProfile_BS.eps>
+File: ModelProfile_Pol.eps Graphic file (type eps)
+ <ModelProfile_Pol.eps> [1] [2] [3] [4]
+File: 3C84_tp.eps Graphic file (type eps)
+ <3C84_tp.eps>
+[5]
+File: 3C84_bs.eps Graphic file (type eps)
+ <3C84_bs.eps> [6]
 File: 3C84_pol.eps Graphic file (type eps)
  <3C84_pol.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (16.0459pt too wide) in paragraph at lines 235--249
+Overfull \hbox (16.0459pt too wide) in paragraph at lines 269--283
  []$ 
  []
 
@@ -395,27 +402,32 @@ File: A2319_tp.eps Graphic file (type eps)
 File: A2319_bs.eps Graphic file (type eps)
  <A2319_bs.eps>
 File: A2319_pol.eps Graphic file (type eps)
- <A2319_pol.eps> [5] [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 291.
+ <A2319_pol.eps> [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 327.
 
 
 (/usr/share/texmf/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 291.
- [7]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 327.
+ [8]
 
-Package natbib Warning: Empty `thebibliography' environment on input line 304.
+Package natbib Warning: Empty `thebibliography' environment on input line 340.
 
-[8] (./A2319_on_RATAN600.aux) ) 
+[9] [10] [11] (./A2319_on_RATAN600.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ ) 
 Here is how much of TeX's memory you used:
- 4787 strings out of 256217
- 57109 string characters out of 1917095
- 124827 words of memory out of 1500000
- 7935 multiletter control sequences out of 10000+200000
+ 4796 strings out of 256217
+ 57255 string characters out of 1917095
+ 126002 words of memory out of 1500000
+ 7941 multiletter control sequences out of 10000+200000
  34351 words of font info for 93 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 36i,6n,34p,3893b,305s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 36i,6n,34p,5299b,305s stack positions out of 5000i,500n,6000p,200000b,15000s
 
-Output written on A2319_on_RATAN600.dvi (8 pages, 26988 bytes).
+Output written on A2319_on_RATAN600.dvi (11 pages, 29940 bytes).
